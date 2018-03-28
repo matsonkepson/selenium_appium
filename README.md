@@ -3,7 +3,7 @@
 here you can find some selenium and appium (with genymotion) examples
 
 ------------------
-# Code has bee tested with the following settings
+# Code has been tested with the following settings
 ```
 I had a great pain to bring it to live so this is a woking set
 ```
