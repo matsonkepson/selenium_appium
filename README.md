@@ -1,6 +1,6 @@
 # selenium_appium
 
-here you can find some selenium and appium (with genymotion) examples
+here you can find some working examples of selenium and appium (with genymotion) 
 
 ------------------
 # Code has been tested with the following settings
