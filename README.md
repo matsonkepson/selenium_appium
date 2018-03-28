@@ -6,7 +6,7 @@ here you can find some working examples of selenium and appium (with genymotion)
 # Code has been tested with the following settings
 ```
 I had a great pain to bring it to live so this is a woking set
-esspecialy with the proper version of the selenium standalone server jar file.
+especially with the proper version of the selenium standalone server jar file.
 ```
 
 appium installed form nodejs and npm package manager.
